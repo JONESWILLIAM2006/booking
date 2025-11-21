@@ -1,0 +1,7 @@
+{
+  "name": "RideGenie - All-in-One Ride Aggregator",
+  "description": "Compare Uber, Ola, and Rapido prices and ETAs for Cabs, Autos, and Bikes in one seamless interface powered by Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
